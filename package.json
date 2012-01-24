@@ -1,0 +1,16 @@
+{
+  "author": "Sami Kukkonen <sami.matias.kukkonen@gmail.com>",
+  "name": "magnet",
+  "description": "Magnet URI scheme",
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "github.com/strax/node-magnet.git"
+  },
+  "engines": {
+    "node": "~0.6.8"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
